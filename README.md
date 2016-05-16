@@ -10,3 +10,5 @@ Shell-script that sends fyou commands to the TCP server
 Arduino sketch that receives servo position and executes it.
 
 Depends on this SerialCommand library: https://github.com/kroimon/Arduino-SerialCommand
+
+[![Gadget in action](https://img.youtube.com/vi/ckuvwqOhTls/0.jpg)](https://www.youtube.com/watch?v=ckuvwqOhTls)
